@@ -8,7 +8,7 @@ const dotenv = require('dotenv');
 const rateLimit = require('express-rate-limit');
 const { body, validationResult } = require('express-validator');
 
-const Contact = require('./models/contact.js');
+const contact = require('./models/contact');
 
 dotenv.config();
 
@@ -52,7 +52,7 @@ app.post('/api/contact',
 
         try {
             const { name, email, subject, message } = req.body;
-            const newContact = new Contact({ name, email, subject, message });
+            const newContact = new contact({ name, email, subject, message });
             await newContact.save();
 
             res.status(201).json({ success: true, message: 'Message received successfully!' });
