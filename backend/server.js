@@ -8,7 +8,7 @@ const dotenv = require('dotenv');
 const rateLimit = require('express-rate-limit');
 const { body, validationResult } = require('express-validator');
 
-const Contact = require('./models/Contact.js');
+const Contact = require('./models/contact.js');
 
 dotenv.config();
 
