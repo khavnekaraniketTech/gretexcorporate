@@ -13,6 +13,9 @@ A modern, visually premium single-page marketing site and full-stack contact flo
 <img width="885" height="735" alt="image" src="https://github.com/user-attachments/assets/79710449-0f9e-4e09-8f75-2be917fe106d" />
 
 <img width="657" height="800" alt="image" src="https://github.com/user-attachments/assets/f3dfb5bc-db05-49c5-a271-e9839e31a7a6" />
+<img width="1702" height="917" alt="image" src="https://github.com/user-attachments/assets/055ba098-8372-41ec-b5a2-d0c64861e1fd" />
+
+<img width="1892" height="845" alt="image" src="https://github.com/user-attachments/assets/f19ee965-d009-4d5b-8194-d36c36df20a6" />
 
 ---
 
